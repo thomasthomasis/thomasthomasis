@@ -1,10 +1,16 @@
-<table>
+<table border="0">
   <tr>
-    <td>
+    <td width="55%">
       <h1>Hi There! 👨‍💻</h1>
+      <p>
+        Full Stack Developer building web & mobile experiences.
+      </p>
+      <p>
+        Always learning. Always building. Always evolving.
+      </p>
     </td>
-    <td align="right">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=600&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+TypeScript;Always+learning.+Always+building." />
+    <td width="45%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=500&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+TypeScript;Always+learning.+Always+building." />
     </td>
   </tr>
 </table>
