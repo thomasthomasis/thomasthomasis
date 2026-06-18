@@ -4,7 +4,12 @@
 
 I'm Thomas, a fullstack and systems software engineer with a background in Computer Science from 🇮🇪 **Galway, Ireland**, currently living in 🇨🇦 **Toronto, Canada**.
 
+## 🌱 Currently Learning
 
+- ☁️ Cloud architecture & AWS
+- 🧠 AI integrations
+- 📱 Advanced React Native patterns
+- ⚡ Performance optimisation
 
 ## 🚀 Some Tools I Use
 
