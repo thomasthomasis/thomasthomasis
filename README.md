@@ -53,4 +53,8 @@ I'm Thomas, a fullstack and systems software engineer with a background in Compu
 - [LinkedIn](https://www.linkedin.com/in/thomas-sloane-115ab4172/)
 - [Portfolio](https://thomassloane.com)
 - [GitHub](https://github.com/thomasthomasis)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thomasthomasis/thomasthomasis/output/github-contribution-grid-snake.svg" />
+</p>
   
