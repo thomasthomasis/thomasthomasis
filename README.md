@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-  <div>
+  <div style="width: 50%">
     <h1>Hi There! 👨‍💻</h1>
   </div>
 
