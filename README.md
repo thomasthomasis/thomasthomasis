@@ -43,6 +43,11 @@ I'm Thomas, a fullstack and systems software engineer with a background in Compu
 | 🧠 [**It's All In Your Head**](https://delimitstudios.com) | A singleplayer game about Brian Nomed, a man who has to make a decision between overcoming grief or becoming the hero of his life | C#, Unity |
 | ⌨️ [**Type Master**](https://github.com/thomasthomasis/TypeMaster) | A typing based battle royale game designed to improve speed, accuracy, and typing skills through racing others. | React, Go, TypeScript, Docker |
 
+## ✒️ Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasthomasis&layout=compact&theme=tokyonight" />
+</p>
+
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/thomas-sloane-115ab4172/)
