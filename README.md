@@ -4,6 +4,8 @@
   <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=500&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+TypeScript;Always+learning.+Always+building." />
 </div>
 
+##
+
 I'm Thomas, a fullstack and systems software engineer with a background in Computer Science from 🇮🇪 **Galway, Ireland**, currently living in 🇨🇦 **Toronto, Canada**.
 
 ##
