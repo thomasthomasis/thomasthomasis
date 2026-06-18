@@ -1,6 +1,13 @@
-# Hi There! 👨‍💻 <p align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+TypeScript;Always+learning.+Always+building." />
-</p>
+<table>
+  <tr>
+    <td>
+      <h1>Hi There! 👨‍💻</h1>
+    </td>
+    <td align="right">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=600&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+TypeScript;Always+learning.+Always+building." />
+    </td>
+  </tr>
+</table>
 
 I'm Thomas, a fullstack and systems software engineer with a background in Computer Science from 🇮🇪 **Galway, Ireland**, currently living in 🇨🇦 **Toronto, Canada**.
 
@@ -64,4 +71,3 @@ I'm Thomas, a fullstack and systems software engineer with a background in Compu
 <p align="center">
   <img src="https://raw.githubusercontent.com/thomasthomasis/thomasthomasis/output/github-contribution-grid-snake.svg" />
 </p>
-  
