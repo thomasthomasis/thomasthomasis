@@ -1,13 +1,8 @@
-<table border="0">
-  <tr>
-    <td valign="middle">
-      <h1>Hi There! 👨‍💻</h1>
-    </td>
-    <td valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=500&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+TypeScript;Always+learning.+Always+building." />
-    </td>
-  </tr>
-</table>
+<div>
+  <h1 align="left">Hi There! 👨‍💻</h1>
+
+  <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=500&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+TypeScript;Always+learning.+Always+building." />
+</div>
 
 I'm Thomas, a fullstack and systems software engineer with a background in Computer Science from 🇮🇪 **Galway, Ireland**, currently living in 🇨🇦 **Toronto, Canada**.
 
