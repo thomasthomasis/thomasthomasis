@@ -59,10 +59,17 @@ ___
 - [It's All In Your Head](https://delimitstudios.com)
 - [Type Master](https://github.com/thomasthomasis/TypeMaster)
 
+## 🔗 Connect With Me
 
-## 🔗 Links
-
-- 🌐 [Portfolio](https://thomassloane.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-sloane-115ab4172/)
-- 📂 [GitHub](https://github.com/thomasthomasis)
+<p align="left">
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome" width="40" height="40" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/>
+  </a>
+</p>
   
