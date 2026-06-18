@@ -59,17 +59,19 @@ ___
 - [It's All In Your Head](https://delimitstudios.com)
 - [Type Master](https://github.com/thomasthomasis/TypeMaster)
 
-## 🔗 Connect With Me
+## 🔗 Links
 
-<p align="left">
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome" width="40" height="40" alt="Portfolio"/>
+<p align="center">
+  <a href="https://yourportfolio.com">
+    <img src="https://cdn.simpleicons.org/vercel" width="45" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="LinkedIn"/>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://cdn.simpleicons.org/linkedin" width="45" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/yourusername">
+    <img src="https://cdn.simpleicons.org/github" width="45" alt="GitHub"/>
   </a>
 </p>
   
