@@ -55,23 +55,16 @@ ___
 </p>
 
 ## 📚 Top Projects
-- [Deckify](https://github.com/thomasthomasis/Deckify)
-- [It's All In Your Head](https://delimitstudios.com)
-- [Type Master](https://github.com/thomasthomasis/TypeMaster)
+
+| Project | Description | Tech Stack |
+|----------|-------------|------|
+| 🎴 [**Deckify**](https://github.com/thomasthomasis/Deckify) | An AI intergrated flashcard learning platform designed to help users create, organize, and study decks efficiently. | Next.js + Supabase |
+| 🧠 [**It's All In Your Head**](https://delimitstudios.com) | A game . | C# + Unity |
+| ⌨️ [**Type Master**](https://github.com/thomasthomasis/TypeMaster) | A typing based battle royale game designed to improve speed, accuracy, and typing skills through racing others. | React + Go + TypeScript |
 
 ## 🔗 Links
 
-<p align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://cdn.simpleicons.org/vercel" width="45" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://cdn.simpleicons.org/linkedin" width="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/yourusername">
-    <img src="https://cdn.simpleicons.org/github" width="45" alt="GitHub"/>
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/thomas-sloane-115ab4172/)
+- [Portfolio](https://thomassloane.com)
+- [GitHub](https://github.com/thomasthomasis)
   
