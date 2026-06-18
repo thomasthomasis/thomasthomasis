@@ -70,5 +70,5 @@ I'm Thomas, a fullstack and systems software engineer with a background in Compu
 - [GitHub](https://github.com/thomasthomasis)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thomasthomasis/thomasthomasis/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/thomasthomasis/thomasthomasis/gh-pages/github-contribution-grid-snake.svg" />
 </p>
