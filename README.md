@@ -55,8 +55,8 @@ ___
 </p>
 
 ## 📚 Top Projects
-- [Deckify](https://github.com/yourusername/Deckify)
-- [It's All In Your Head](delimitstudios.com)
+- [Deckify](https://github.com/thomasthomasis/Deckify)
+- [It's All In Your Head](https://delimitstudios.com)
 - [Type Master](https://github.com/thomasthomasis/TypeMaster)
 
 
