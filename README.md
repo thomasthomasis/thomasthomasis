@@ -1,7 +1,6 @@
 # Hi There! 👨‍💻
 
 I'm Thomas, a fullstack and systems software engineer with a background in Computer Science from 🇮🇪 **Galway, Ireland**, currently living in 🇨🇦 **Toronto, Canada**.
-___
 
 ## 🚀 Some Tools I Use
 
