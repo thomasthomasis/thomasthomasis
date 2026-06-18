@@ -1,6 +1,8 @@
 # Hi There! 👨‍💻
 
-> I'm Thomas, a fullstack and systems software engineer with a background in Computer Science from Galway, Ireland, currently living in Toronto, Canada.
+I'm Thomas, a fullstack and systems software engineer with a background in Computer Science from 🇮🇪 **Galway, Ireland**, currently living in 🇨🇦 **Toronto, Canada**.
+
+___
 
 ### Things I code with
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
