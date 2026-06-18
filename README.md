@@ -58,9 +58,9 @@ ___
 
 | Project | Description | Tech Stack |
 |----------|-------------|------|
-| 🎴 [**Deckify**](https://github.com/thomasthomasis/Deckify) | An AI intergrated flashcard learning platform designed to help users create, organize, and study decks efficiently. | Next.js + Supabase |
-| 🧠 [**It's All In Your Head**](https://delimitstudios.com) | A game . | C# + Unity |
-| ⌨️ [**Type Master**](https://github.com/thomasthomasis/TypeMaster) | A typing based battle royale game designed to improve speed, accuracy, and typing skills through racing others. | React + Go + TypeScript |
+| 🎴 [**Deckify**](https://github.com/thomasthomasis/Deckify) | An AI intergrated flashcard learning platform designed to help users create, organize, and study decks efficiently. | Next.js, Supabase |
+| 🧠 [**It's All In Your Head**](https://delimitstudios.com) | A singleplayer game about Brian Nomed, a man who has to make a decision between overcoming grief or becoming the hero of his life | C#, Unity |
+| ⌨️ [**Type Master**](https://github.com/thomasthomasis/TypeMaster) | A typing based battle royale game designed to improve speed, accuracy, and typing skills through racing others. | React, Go, TypeScript, Docker |
 
 ## 🔗 Links
 
