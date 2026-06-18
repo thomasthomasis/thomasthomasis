@@ -17,8 +17,9 @@ I'm Thomas, a fullstack and systems software engineer with a background in Compu
 
 - ☁️ Cloud architecture & AWS
 - 🧠 AI integrations
-- 📱 Advanced React Native patterns
+- 📱 Advanced React patterns
 - ⚡ Performance optimisation
+- ⚙️ System Design
 
 ## 🚀 Some Tools I Use
 
