@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Thomas%20Thomas&fontSize=70&fontAlignY=35" />
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
   <div>
