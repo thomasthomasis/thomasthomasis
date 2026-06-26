@@ -59,8 +59,9 @@ I'm Thomas, a fullstack and systems software engineer with a background in Compu
 
 | Project | Description | Tech Stack |
 |----------|-------------|------|
-| 🎴 [**Deckify**](https://github.com/thomasthomasis/Deckify) | An AI intergrated flashcard learning platform designed to help users create, organize, and study decks efficiently. | Next.js, Supabase |
+| 🎴 [**Deckify**](https://deckify-app.vercel.app/) | An AI intergrated flashcard learning platform designed to help users create, organize, and study decks efficiently. | Next.js, Supabase |
 | 🧠 [**It's All In Your Head**](https://delimitstudios.com) | A singleplayer game about Brian Nomed, a man who has to make a decision between overcoming grief or becoming the hero of his life | C#, Unity |
+| ⌨️ [**Place Eternal**](https://github.com/thomasthomasis/PlaceEternal) | A collaborative canvas which anyone can contribute to. | JavaScript, CSS, HTML, Docker |
 | ⌨️ [**Type Master**](https://github.com/thomasthomasis/TypeMaster) | A typing based battle royale game designed to improve speed, accuracy, and typing skills through racing others. | React, Go, TypeScript, Docker |
 
 ## ✒️ Most Used Languages
